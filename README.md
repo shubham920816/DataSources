@@ -15,7 +15,7 @@
 * API method
 
 ````
-     http://<docker_container_ip>/ingestion
+     http://<container_ip_on_k8s>/ingestion
 ````
 * Body for the request
 
